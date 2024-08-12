@@ -1,0 +1,100 @@
+freshman
+sophomore
+junior
+senior
+graduation
+commencement
+bachelors degree
+masters degree
+doctorate
+thesis
+dissertation
+research
+internship
+fellowship
+scholarship
+tuition
+financial aid
+student loan
+campus
+dormitory
+residence hall
+lecture
+seminar
+workshop
+lab
+library
+study group
+academic advisor
+professor
+lecturer
+dean
+chancellor
+president
+registrar
+admissions office
+career services
+counseling center
+student union
+cafeteria
+dining hall
+bookstore
+syllabus
+curriculum
+elective
+major
+minor
+core course
+credit hour
+transcript
+midterm
+final exam
+quiz
+pop quiz
+homework
+assignment
+essay
+report
+presentation
+group project
+study abroad
+exchange program
+fraternity
+sorority
+greek life
+student government
+clubs and organizations
+honor society
+sports team
+varsity
+intramural sports
+student newspaper
+yearbook
+orientation
+welcome week
+open house
+college tour
+registrars office
+financial aid office
+career fair
+job interview
+resume
+cover letter
+letters of recommendation
+office hours
+study hall
+academic probation
+deans list
+dorm room
+resident assistant
+lecture hall
+computer lab
+science lab
+humanities
+social sciences
+natural sciences
+engineering
+business school
+medical school
+law school
+nursing school
